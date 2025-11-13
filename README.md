@@ -757,8 +757,6 @@ Wireshark training (official): https://www.wireshark.org/learn (Wireshark)
 
 How to Use This Document 
 
-Paste into Word. Use Heading 1/2/3 styles for quick navigation and to auto-build a Table of Contents. 
-
 Keep all lab outputs (pcaps, CSVs, screenshots) in your soc-analyst-labs folder and reference them in your Detection Diary. 
 
 When a section feels comfortable, schedule the paired certification (timelines above). 
